@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://1dpp21k3fuqp"
+
+[deps]
+
+files=["res://builds/windows/resource/classes.JOBNAME.translation", "res://builds/windows/resource/classes.DESCRIPTION.translation", "res://builds/windows/resource/classes.SKILLS.translation"]
+
+source_file="res://builds/windows/resource/classes.csv"
+dest_files=["res://builds/windows/resource/classes.JOBNAME.translation", "res://builds/windows/resource/classes.DESCRIPTION.translation", "res://builds/windows/resource/classes.SKILLS.translation"]
+
+[params]
+
+compress=true
+delimiter=0
