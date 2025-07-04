@@ -15,7 +15,7 @@ You can [download the playable Windows build here](https://codeizra.itch.io/rpg-
 
 ### Installation Instructions
 
-1. Download the `.zip` file from the [itch.io page](https://codeizra.itch.io/your-game-link-if-public)
+1. Download the `.zip` file from the [itch.io page](https://codeizra.itch.io/rpg-job-selection-scene)
 2. Extract the archive with WinRAR, 7-Zip, or Windows Explorer
 3. Open the extracted folder
 4. Run `RPGJobSelection.exe`
